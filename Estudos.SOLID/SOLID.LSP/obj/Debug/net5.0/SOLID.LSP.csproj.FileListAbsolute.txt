@@ -1,0 +1,16 @@
+C:\Users\areth\Desktop\pen drive rosa\estudos\estudos-solid\Estudos.SOLID\SOLID.LSP\bin\Debug\net5.0\SOLID.LSP.exe
+C:\Users\areth\Desktop\pen drive rosa\estudos\estudos-solid\Estudos.SOLID\SOLID.LSP\bin\Debug\net5.0\SOLID.LSP.deps.json
+C:\Users\areth\Desktop\pen drive rosa\estudos\estudos-solid\Estudos.SOLID\SOLID.LSP\bin\Debug\net5.0\SOLID.LSP.runtimeconfig.json
+C:\Users\areth\Desktop\pen drive rosa\estudos\estudos-solid\Estudos.SOLID\SOLID.LSP\bin\Debug\net5.0\SOLID.LSP.runtimeconfig.dev.json
+C:\Users\areth\Desktop\pen drive rosa\estudos\estudos-solid\Estudos.SOLID\SOLID.LSP\bin\Debug\net5.0\SOLID.LSP.dll
+C:\Users\areth\Desktop\pen drive rosa\estudos\estudos-solid\Estudos.SOLID\SOLID.LSP\bin\Debug\net5.0\ref\SOLID.LSP.dll
+C:\Users\areth\Desktop\pen drive rosa\estudos\estudos-solid\Estudos.SOLID\SOLID.LSP\bin\Debug\net5.0\SOLID.LSP.pdb
+C:\Users\areth\Desktop\pen drive rosa\estudos\estudos-solid\Estudos.SOLID\SOLID.LSP\obj\Debug\net5.0\SOLID.LSP.csprojAssemblyReference.cache
+C:\Users\areth\Desktop\pen drive rosa\estudos\estudos-solid\Estudos.SOLID\SOLID.LSP\obj\Debug\net5.0\SOLID.LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\areth\Desktop\pen drive rosa\estudos\estudos-solid\Estudos.SOLID\SOLID.LSP\obj\Debug\net5.0\SOLID.LSP.AssemblyInfoInputs.cache
+C:\Users\areth\Desktop\pen drive rosa\estudos\estudos-solid\Estudos.SOLID\SOLID.LSP\obj\Debug\net5.0\SOLID.LSP.AssemblyInfo.cs
+C:\Users\areth\Desktop\pen drive rosa\estudos\estudos-solid\Estudos.SOLID\SOLID.LSP\obj\Debug\net5.0\SOLID.LSP.csproj.CoreCompileInputs.cache
+C:\Users\areth\Desktop\pen drive rosa\estudos\estudos-solid\Estudos.SOLID\SOLID.LSP\obj\Debug\net5.0\SOLID.LSP.dll
+C:\Users\areth\Desktop\pen drive rosa\estudos\estudos-solid\Estudos.SOLID\SOLID.LSP\obj\Debug\net5.0\ref\SOLID.LSP.dll
+C:\Users\areth\Desktop\pen drive rosa\estudos\estudos-solid\Estudos.SOLID\SOLID.LSP\obj\Debug\net5.0\SOLID.LSP.pdb
+C:\Users\areth\Desktop\pen drive rosa\estudos\estudos-solid\Estudos.SOLID\SOLID.LSP\obj\Debug\net5.0\SOLID.LSP.genruntimeconfig.cache
