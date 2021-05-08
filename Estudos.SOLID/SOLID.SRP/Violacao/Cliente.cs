@@ -4,7 +4,7 @@ using System;
 
 namespace SOLID.SRP.Violacao
 {
-    public class ClienteViolacao
+    public class Cliente
     {
         public string ClienteId { get; set; }
         public string Nome { get; set; }
